@@ -1,2 +1,2 @@
-# anujgore11-gmail.com
-DB
+Contact List Application
+Python+MySQL
